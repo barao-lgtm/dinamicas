@@ -1,0 +1,22 @@
+[
+  {
+    "id": "shopee001",
+    "nome": "Blusa Estilo Shopee",
+    "valor_base": 39,
+    "margem": 20,
+    "valor_final": 47,
+    "imagem": "blusa.jpg",
+    "influencer": "@modadalu",
+    "entrega": "https://shopee.com.br/produto123"
+  },
+  {
+    "id": "curso001",
+    "nome": "Curso Renda Extra",
+    "valor_base": 59,
+    "margem": 40,
+    "valor_final": 83,
+    "imagem": "curso.jpg",
+    "influencer": "@lucracomana",
+    "entrega": "https://wa.me/5511988888888"
+  }
+]
